@@ -11,7 +11,7 @@
   <li>Formatting Strings.</li>
   <li>Color literals.</li>
 </ul>
-<h2>☑️ Final look of BMI Calculator app🏋️‍♂️</h2>
+<h2>☑️ Final look of BMI Calculator  app🏋️‍♂️</h2>
 <img src="BMI.gif" alt="BMI" width="20%" height="50%">
 
 
