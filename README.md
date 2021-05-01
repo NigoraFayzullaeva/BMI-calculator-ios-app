@@ -12,6 +12,6 @@
   <li>Color literals.</li>
 </ul>
 <h2>☑️ Final look of BMI Calculator  app🏋️‍♂️</h2>
-<img src="BMI.gif" alt="BMI" width="20%" height="50%">
+<img src="bmi.gif" alt="BMI" width="20%" height="50%">
 
 
