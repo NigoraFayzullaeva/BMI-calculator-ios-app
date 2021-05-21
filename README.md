@@ -1,3 +1,4 @@
+⚠️ Feel free to download source code and change it by your own.
 <h2>☑️ Goal</h2>
 <p>The goal of this app is to learn more about Optionals, understanding of the MVC design pattern and to learn the concept of Classes. Comparing objects created from classes with instances of Structs that I learnt about earlier.</p>
 <h2>☑️ What is this app about?</h2>
