@@ -3,7 +3,7 @@
 <p>The goal of this app is to learn more about Optionals, understanding of the MVC design pattern and to learn the concept of Classes. Comparing objects created from classes with instances of Structs that I learnt about earlier.</p>
 <h2>☑️ What is this app about?</h2>
 <p>A Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies.</p>
-<h2>☑️ What have I learned?</h2>
+<h2>☑️ What I have learned?</h2>
 <ul>
   <li>How to create multi-screen apps with animated navigation.</li>
   <li>Optional binding, optional chaining and the nil coalescing operator.</li>
